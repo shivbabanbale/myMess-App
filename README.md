@@ -1,7 +1,7 @@
-Overview
+Overview : 
 myMess App is a mobile application designed to simplify mess management for students, mess owners, and admins. It allows students to find and join nearby messes, manage payments, track attendance, and apply for leave. Mess owners can register their businesses, manage members, and stay updated with notifications. Admins oversee the entire system by managing both users and mess owners.
 
-Features
+Features :
 Student Module
 Search Nearby Messes: Find and join messes in your locality.
 Payment Integration: Confirm mess joining by completing payments.
@@ -16,7 +16,7 @@ Notifications: Get notified when new students join or when students make request
 Admin Module
 User & Owner Management: Add, edit, and remove accounts for both students and mess owners.
 System Management: Oversee all app operations and ensure smooth workflow.
-Tech Stack
+Tech Stack :
 Frontend: React Native
 Authentication: Firebase Authentication
 Backend/API: Firebase Cloud Functions
